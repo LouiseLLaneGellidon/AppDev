@@ -1,2 +1,0 @@
-# AppDev
-My first repository
